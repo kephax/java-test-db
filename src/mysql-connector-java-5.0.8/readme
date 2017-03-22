@@ -1,0 +1,24 @@
+            <string>2</string>
+                          </array>
+                          <string>values</string>
+                          <array count="1">
+                            <string>false</string>
+                          </array>
+                        </dictionary>
+                        <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                          <int name="bindingTopKind">1</int>
+                          <int name="bindingLeftKind">1</int>
+                        </object>
+                        <string name="foreColor">64466 64466 64466 </string>
+                      </object>
+                      <object class="IBCarbonBevelButton" id="3942">
+                        <string name="bounds">159 468 181 546 </string>
+                        <string name="viewFrame">468 31 78 22 </string>
+                        <int name="controlID">1605</int>
+                        <string name="title">미리 듣기</string>
+                        <object name="layoutInfo" class="IBCarbonHILayoutInfo">
+                          <int name="bindingLeftKind">1</int>
+                        </object>
+                        <int name="contentType">0</int>
+                        <int name="contentResID">13201</int>
+                        <int name="graphicAlignme
